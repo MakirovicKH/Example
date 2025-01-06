@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\bin\Debug\net8.0\FinalDAL.deps.json
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\bin\Debug\net8.0\FinalDAL.runtimeconfig.json
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\bin\Debug\net8.0\FinalDAL.dll
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\bin\Debug\net8.0\FinalDAL.pdb
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\bin\Debug\net8.0\FinalMODEL.dll
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\bin\Debug\net8.0\FinalMODEL.pdb
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\obj\Debug\net8.0\FinalDAL.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\obj\Debug\net8.0\FinalDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\obj\Debug\net8.0\FinalDAL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\obj\Debug\net8.0\FinalDAL.AssemblyInfo.cs
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\obj\Debug\net8.0\FinalDAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\obj\Debug\net8.0\FinalDAL.csproj.Up2Date
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\obj\Debug\net8.0\FinalDAL.dll
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\obj\Debug\net8.0\refint\FinalDAL.dll
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\obj\Debug\net8.0\FinalDAL.pdb
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\obj\Debug\net8.0\FinalDAL.genruntimeconfig.cache
+C:\Users\admin\source\repos\FinalApiProject\FinalDAL\obj\Debug\net8.0\ref\FinalDAL.dll

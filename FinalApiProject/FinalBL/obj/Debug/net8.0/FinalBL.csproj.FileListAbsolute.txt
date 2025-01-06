@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\bin\Debug\net8.0\FinalBL.deps.json
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\bin\Debug\net8.0\FinalBL.dll
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\bin\Debug\net8.0\FinalBL.pdb
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\bin\Debug\net8.0\FinalDAL.dll
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\bin\Debug\net8.0\FinalMODEL.dll
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\bin\Debug\net8.0\FinalDAL.pdb
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\bin\Debug\net8.0\FinalMODEL.pdb
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\obj\Debug\net8.0\FinalBL.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\obj\Debug\net8.0\FinalBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\obj\Debug\net8.0\FinalBL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\obj\Debug\net8.0\FinalBL.AssemblyInfo.cs
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\obj\Debug\net8.0\FinalBL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\obj\Debug\net8.0\FinalBL.csproj.Up2Date
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\obj\Debug\net8.0\FinalBL.dll
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\obj\Debug\net8.0\refint\FinalBL.dll
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\obj\Debug\net8.0\FinalBL.pdb
+C:\Users\admin\source\repos\FinalApiProject\FinalBL\obj\Debug\net8.0\ref\FinalBL.dll
