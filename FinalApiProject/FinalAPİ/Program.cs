@@ -7,16 +7,11 @@ using FinalDAL.İmplementations;
 using FinalDAL.İnterfaces;
 using FinalMODEL.Models;
 using FinalMODEL.ProfileMapping.CategoryProfiles;
-using FinalMODEL.ProfileMapping.ColorProfiles;
-using FinalMODEL.ProfileMapping.SizeProfiles;
-using FinalMODEL.ProfileMapping.UserProfiles;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using IEmailSender = Microsoft.AspNetCore.Identity.UI.Services.IEmailSender;
 
 namespace FinalAP
 {
@@ -57,16 +52,24 @@ namespace FinalAP
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
-            builder.Services.AddScoped<IRegisterService, RegisterService>();
+            builder.Services.AddAutoMapper(typeof(CategoryProfile).Assembly);
+
+            builder.Services.AddScoped<IRepository<Category>, Repository<Category>>();
+            builder.Services.AddScoped<IRepository<Color>, Repository<Color>>();
+            builder.Services.AddScoped<IRepository<Product>, Repository<Product>>();
+            builder.Services.AddScoped<IRepository<ProductCategory>, Repository<ProductCategory>>();
+            builder.Services.AddScoped<IRepository<Size>, Repository<Size>>();
+
             builder.Services.AddScoped<ISizeService, SizeService>();
             builder.Services.AddScoped<IColorService, ColorService>();
             builder.Services.AddScoped<ICategoryService, CategoryService>();
-            builder.Services.AddScoped<IProductService, ProductService>();
+            builder.Services.AddScoped<IEmailSender, EmailSender>();
             builder.Services.AddScoped<JwtService>();
 
-            builder.Services.Configure<SmtpSettings>(builder.Configuration.GetSection("SmtpSettings"));
+            builder.Services.AddScoped<IRegisterService, RegisterService>();
+            builder.Services.AddScoped<IProductService, ProductService>();
 
+            builder.Services.Configure<SmtpSettings>(builder.Configuration.GetSection("SmtpSettings"));
 
             builder.Services.AddIdentity<AppUser, IdentityRole>(
                opt =>
@@ -77,11 +80,6 @@ namespace FinalAP
 
             builder.Services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
-            builder.Services.AddAutoMapper(typeof(UserProfile));
-            builder.Services.AddAutoMapper(typeof(SizeProfile));
-            builder.Services.AddAutoMapper(typeof(ColorProfile));
-            builder.Services.AddAutoMapper(typeof(CategoryProfile));
 
             var app = builder.Build();
 
@@ -102,8 +100,6 @@ namespace FinalAP
 
             app.UseAuthentication();
             app.UseAuthorization();
-
-
 
             app.MapControllers();
 

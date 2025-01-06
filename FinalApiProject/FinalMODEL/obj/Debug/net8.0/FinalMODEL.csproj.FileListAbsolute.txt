@@ -10,3 +10,16 @@ C:\Users\admin\source\repos\FinalApiProject\FinalMODEL\obj\Debug\net8.0\FinalMOD
 C:\Users\admin\source\repos\FinalApiProject\FinalMODEL\obj\Debug\net8.0\refint\FinalMODEL.dll
 C:\Users\admin\source\repos\FinalApiProject\FinalMODEL\obj\Debug\net8.0\FinalMODEL.pdb
 C:\Users\admin\source\repos\FinalApiProject\FinalMODEL\obj\Debug\net8.0\ref\FinalMODEL.dll
+C:\Users\Classtime\Desktop\Example\Example\FinalApiProject\FinalMODEL\bin\Debug\net8.0\FinalMODEL.deps.json
+C:\Users\Classtime\Desktop\Example\Example\FinalApiProject\FinalMODEL\bin\Debug\net8.0\FinalMODEL.dll
+C:\Users\Classtime\Desktop\Example\Example\FinalApiProject\FinalMODEL\bin\Debug\net8.0\FinalMODEL.pdb
+C:\Users\Classtime\Desktop\Example\Example\FinalApiProject\FinalMODEL\obj\Debug\net8.0\FinalMODEL.csproj.AssemblyReference.cache
+C:\Users\Classtime\Desktop\Example\Example\FinalApiProject\FinalMODEL\obj\Debug\net8.0\FinalMODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\Desktop\Example\Example\FinalApiProject\FinalMODEL\obj\Debug\net8.0\FinalMODEL.AssemblyInfoInputs.cache
+C:\Users\Classtime\Desktop\Example\Example\FinalApiProject\FinalMODEL\obj\Debug\net8.0\FinalMODEL.AssemblyInfo.cs
+C:\Users\Classtime\Desktop\Example\Example\FinalApiProject\FinalMODEL\obj\Debug\net8.0\FinalMODEL.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\Desktop\Example\Example\FinalApiProject\FinalMODEL\obj\Debug\net8.0\FinalMODEL.sourcelink.json
+C:\Users\Classtime\Desktop\Example\Example\FinalApiProject\FinalMODEL\obj\Debug\net8.0\FinalMODEL.dll
+C:\Users\Classtime\Desktop\Example\Example\FinalApiProject\FinalMODEL\obj\Debug\net8.0\refint\FinalMODEL.dll
+C:\Users\Classtime\Desktop\Example\Example\FinalApiProject\FinalMODEL\obj\Debug\net8.0\FinalMODEL.pdb
+C:\Users\Classtime\Desktop\Example\Example\FinalApiProject\FinalMODEL\obj\Debug\net8.0\ref\FinalMODEL.dll

@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalAPİ", "FinalAPİ\FinalAPİ.csproj", "{795F34BD-4714-44A1-8EBF-D4F4221126F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalAPİ", "FinalAPİ\FinalAPİ.csproj", "{795F34BD-4714-44A1-8EBF-D4F4221126F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalBL", "FinalBL\FinalBL.csproj", "{4571D522-B852-4735-9156-24075ACD9C33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalBL", "FinalBL\FinalBL.csproj", "{4571D522-B852-4735-9156-24075ACD9C33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalDAL", "FinalDAL\FinalDAL.csproj", "{DE604B41-E67C-4B98-BEE3-6D6B26A593D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalDAL", "FinalDAL\FinalDAL.csproj", "{DE604B41-E67C-4B98-BEE3-6D6B26A593D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalMODEL", "FinalMODEL\FinalMODEL.csproj", "{DB26D334-1031-4A4B-BFBF-D69DC8A05C1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalMODEL", "FinalMODEL\FinalMODEL.csproj", "{DB26D334-1031-4A4B-BFBF-D69DC8A05C1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{600B9246-8540-47B1-B9ED-4D7C4D2F2453}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{600B9246-8540-47B1-B9ED-4D7C4D2F2453}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

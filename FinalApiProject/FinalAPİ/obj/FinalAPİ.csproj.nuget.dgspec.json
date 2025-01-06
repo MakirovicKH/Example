@@ -1,29 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalAPİ\\FinalAPİ.csproj": {}
+    "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalAPİ\\FinalAPİ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalAPİ\\FinalAPİ.csproj": {
+    "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalAPİ\\FinalAPİ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalAPİ\\FinalAPİ.csproj",
+        "projectUniqueName": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalAPİ\\FinalAPİ.csproj",
         "projectName": "FinalAPİ",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalAPİ\\FinalAPİ.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalAPİ\\obj\\",
+        "projectPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalAPİ\\FinalAPİ.csproj",
+        "packagesPath": "C:\\Users\\Classtime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalAPİ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Users\\Classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -31,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalBL\\FinalBL.csproj": {
-                "projectPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalBL\\FinalBL.csproj"
+              "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalBL\\FinalBL.csproj": {
+                "projectPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalBL\\FinalBL.csproj"
               },
-              "C:\\Users\\admin\\source\\repos\\FinalApiProject\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -49,8 +51,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -90,30 +91,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalBL\\FinalBL.csproj": {
+    "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalBL\\FinalBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalBL\\FinalBL.csproj",
+        "projectUniqueName": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalBL\\FinalBL.csproj",
         "projectName": "FinalBL",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalBL\\FinalBL.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalBL\\obj\\",
+        "projectPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalBL\\FinalBL.csproj",
+        "packagesPath": "C:\\Users\\Classtime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalBL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Users\\Classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -121,8 +124,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalDAL\\FinalDAL.csproj": {
-                "projectPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalDAL\\FinalDAL.csproj"
+              "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalDAL\\FinalDAL.csproj": {
+                "projectPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalDAL\\FinalDAL.csproj"
               }
             }
           }
@@ -136,8 +139,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -168,30 +170,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalDAL\\FinalDAL.csproj": {
+    "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalDAL\\FinalDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalDAL\\FinalDAL.csproj",
+        "projectUniqueName": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalDAL\\FinalDAL.csproj",
         "projectName": "FinalDAL",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalDAL\\FinalDAL.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalDAL\\obj\\",
+        "projectPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalDAL\\FinalDAL.csproj",
+        "packagesPath": "C:\\Users\\Classtime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalDAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Users\\Classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -199,8 +203,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalMODEL\\FinalMODEL.csproj": {
-                "projectPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalMODEL\\FinalMODEL.csproj"
+              "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalMODEL\\FinalMODEL.csproj": {
+                "projectPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalMODEL\\FinalMODEL.csproj"
               }
             }
           }
@@ -214,8 +218,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -252,30 +255,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalMODEL\\FinalMODEL.csproj": {
+    "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalMODEL\\FinalMODEL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalMODEL\\FinalMODEL.csproj",
+        "projectUniqueName": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalMODEL\\FinalMODEL.csproj",
         "projectName": "FinalMODEL",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalMODEL\\FinalMODEL.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalMODEL\\obj\\",
+        "projectPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalMODEL\\FinalMODEL.csproj",
+        "packagesPath": "C:\\Users\\Classtime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalMODEL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Users\\Classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -294,8 +299,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -330,30 +334,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\admin\\source\\repos\\FinalApiProject\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Classtime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Users\\Classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -361,8 +367,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalDAL\\FinalDAL.csproj": {
-                "projectPath": "C:\\Users\\admin\\source\\repos\\FinalApiProject\\FinalDAL\\FinalDAL.csproj"
+              "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalDAL\\FinalDAL.csproj": {
+                "projectPath": "C:\\Users\\Classtime\\Desktop\\Example\\Example\\FinalApiProject\\FinalDAL\\FinalDAL.csproj"
               }
             }
           }
@@ -376,8 +382,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -404,7 +409,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

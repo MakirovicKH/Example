@@ -10,16 +10,15 @@ using System.Text;
 using System.Threading.Tasks;
 namespace FinalDAL.DAL
 {
-    public class AppDbContext : IdentityDbContext
+    public class AppDbContext : IdentityDbContext<AppUser>
     {
-        public AppDbContext(DbContextOptions<AppDbContext> Options) : base(Options) { }
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
-        DbSet<AppUser> Users { get; set; }
-        DbSet<Category> Categories { get; set; }
-        DbSet<Color> Colors { get; set; }
-        DbSet<Product> Products { get; set; }
-        DbSet<ProductCategory> ProductCategories { get; set; }
-        DbSet<Size> Sizes { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Color> Colors { get; set; }
+        public DbSet<Product> Products { get; set; }
+        public DbSet<ProductCategory> ProductCategories { get; set; }
+        public DbSet<Size> Sizes { get; set; }
 
 
 
